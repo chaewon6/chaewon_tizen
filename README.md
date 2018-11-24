@@ -1,3 +1,3 @@
 # chaewon_tizen
-  typo
+  *typo
     *http://github.com/samsung/tizenrt
