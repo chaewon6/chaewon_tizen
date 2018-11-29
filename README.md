@@ -8,7 +8,7 @@
 #이채형 2017036166 https://github.com/lch0708/sssss-
 
 
-1. gear-racing-car 빌드
+gear-racing-car 빌드
 --------------------
 
 ![gear-racing-car](https://user-images.githubusercontent.com/45282364/49206978-0f105380-f3f7-11e8-87b7-e5f91848269f.png)
