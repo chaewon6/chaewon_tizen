@@ -65,4 +65,9 @@ nnfw 또한 "specified package ~~~~~ does not exist"
 ④wifi-manager 빌드
 -----------
 
+![wifi-manager](https://user-images.githubusercontent.com/45282364/49211211-636d0080-f402-11e8-8048-6cfdba9f5359.png)
 
+
+wifi-manager 또한 "specified package ~~~~~ does not exist"
+
+그 이유 역시,
