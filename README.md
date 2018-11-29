@@ -1,4 +1,4 @@
-"공개 SW" 181123-181124 
+[공개 SW] 181123-181124 
 =================
 
 #설미혜 2017036138 https://github.com/csjs0820/MH-
@@ -18,3 +18,7 @@
 
 > 2. tensorflow 빌드
 
+![tensorflow](https://user-images.githubusercontent.com/45282364/49210338-3586bc80-f400-11e8-91d4-ecd7b85e44bf.png)
+
+>> 그러나, "no source packages found at ~~~ "
+>> 그 이유는?
