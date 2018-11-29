@@ -33,3 +33,9 @@
 
  ③nnfw 빌드
  ----------
+![nnfw](https://user-images.githubusercontent.com/45282364/49210954-ba260a80-f401-11e8-9394-f0d17164fa98.png)
+
+
+nnfw 또한 "specified package ~~~~~ does not exist"
+
+그 이유는?
