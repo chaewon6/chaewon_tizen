@@ -78,7 +78,7 @@ wifi-manager 또한 "specified package ~~~~~ does not exist"
 
 
 
-⑤오타 수정
+⑤오타 수정 (https://github.com/Samsung/TizenRT/pull/2510)
 ----------
 <1>
 
