@@ -83,22 +83,32 @@ wifi-manager 또한 "specified package ~~~~~ does not exist"
 ⑤오타 수정
 ----------
 <1>
+
+
 ![1](https://user-images.githubusercontent.com/45282364/49278591-9974b800-f4c8-11e8-9a6b-6e554c6b6484.png)
 
 
 <2>
+
+
 ![2](https://user-images.githubusercontent.com/45282364/49278592-9974b800-f4c8-11e8-968d-a8350824e63f.png)
 
 
 <3>
+
+
 ![3](https://user-images.githubusercontent.com/45282364/49278593-9a0d4e80-f4c8-11e8-9914-900a30f19b27.png)
 
 
 <4>
+
+
 ![4](https://user-images.githubusercontent.com/45282364/49278594-9a0d4e80-f4c8-11e8-9344-dd4289c5bb2d.png)
 
 
 <5>
+
+
 ![5](https://user-images.githubusercontent.com/45282364/49278595-9a0d4e80-f4c8-11e8-8952-84e410201187.png)
 
 
