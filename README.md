@@ -25,15 +25,9 @@
 ②tensorflow 빌드
 --------------
 
-![tensorflow](https://user-images.githubusercontent.com/45282364/49210338-3586bc80-f400-11e8-91d4-ecd7b85e44bf.png)
-
- 그러나, "no source packages found at ~~~ "
- 
- 그 이유는? "Initial empty repository"
- 
- 
-![tensorflow-no](https://user-images.githubusercontent.com/45282364/49210497-8f878200-f400-11e8-8667-4c55f7a943bc.png)
-
+![tensorflow1](https://user-images.githubusercontent.com/45282364/49288931-7efd0780-f4e5-11e8-99f4-9634ee8e4b5a.png)
+![tensorflow2](https://user-images.githubusercontent.com/45282364/49288932-7efd0780-f4e5-11e8-811f-3997c90fa867.png)
+![tensorflow3](https://user-images.githubusercontent.com/45282364/49288933-7f959e00-f4e5-11e8-992b-7dac9eca625c.png)
 
 
 
@@ -59,15 +53,11 @@
 ④wifi-manager 빌드
 -----------
 
-![wifi-manager](https://user-images.githubusercontent.com/45282364/49211211-636d0080-f402-11e8-8048-6cfdba9f5359.png)
 
-
-wifi-manager 또한 "specified package ~~~~~ does not exist"
-
-그 이유 역시, "Initial empty repository"
-![wifi-manager-no](https://user-images.githubusercontent.com/45282364/49211319-a7f89c00-f402-11e8-9727-9185bff1d343.png)
-
-
+![wifi-manager1](https://user-images.githubusercontent.com/45282364/49288944-8a503300-f4e5-11e8-830c-762772b37ff9.png)
+![wifi-manager2](https://user-images.githubusercontent.com/45282364/49288945-8a503300-f4e5-11e8-9ba5-2c242d48e584.png)
+![wifi-manager3](https://user-images.githubusercontent.com/45282364/49288946-8a503300-f4e5-11e8-8363-5ebf7ec4ba64.png)
+![wifi-manager4](https://user-images.githubusercontent.com/45282364/49288947-8ae8c980-f4e5-11e8-9d80-fff9b814615b.png)
 
 
 
