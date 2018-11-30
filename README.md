@@ -122,3 +122,10 @@ wifi-manager 또한 "specified package ~~~~~ does not exist"
 ![7](https://user-images.githubusercontent.com/45282364/49283383-f1192080-f4d4-11e8-888d-f9d54545cc0c.png)
 
 
+<8>
+
+
+![8](https://user-images.githubusercontent.com/45282364/49284214-3c343300-f4d7-11e8-9aaa-ba291dd8940e.png)
+
+
+
