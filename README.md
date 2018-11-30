@@ -45,15 +45,9 @@
 
  ③nnfw 빌드
  ----------
-![nnfw](https://user-images.githubusercontent.com/45282364/49210954-ba260a80-f401-11e8-9394-f0d17164fa98.png)
-
-
-nnfw 또한 "specified package ~~~~~ does not exist"
-
-그 이유 역시, "Initial empty repository"
-
-
-![nnfw-no](https://user-images.githubusercontent.com/45282364/49211066-0d985880-f402-11e8-85a5-54fa41bb8af3.png)
+![nnfw1](https://user-images.githubusercontent.com/45282364/49288026-e5345b00-f4e2-11e8-91a3-c064b3c4f1e5.png)
+![nnfw2](https://user-images.githubusercontent.com/45282364/49288027-e5ccf180-f4e2-11e8-8e67-56405379f114.png)
+![nnfw3](https://user-images.githubusercontent.com/45282364/49288028-e5ccf180-f4e2-11e8-85b3-431c0399e57f.png)
 
 
 
