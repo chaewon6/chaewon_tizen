@@ -5,8 +5,6 @@
 
 #황채원 2017036160 https://github.com/chaewon6/chaewon_tizen
 
-#이채형 2017036166 https://github.com/lch0708/sssss
-
 
 
 
