@@ -29,7 +29,7 @@
 
  그러나, "no source packages found at ~~~ "
  
- 그 이유는?
+ 그 이유는? "Initial empty repository"
  
  
 ![tensorflow-no](https://user-images.githubusercontent.com/45282364/49210497-8f878200-f400-11e8-8667-4c55f7a943bc.png)
@@ -50,7 +50,7 @@
 
 nnfw 또한 "specified package ~~~~~ does not exist"
 
-그 이유 역시,
+그 이유 역시, "Initial empty repository"
 
 
 ![nnfw-no](https://user-images.githubusercontent.com/45282364/49211066-0d985880-f402-11e8-85a5-54fa41bb8af3.png)
@@ -70,7 +70,7 @@ nnfw 또한 "specified package ~~~~~ does not exist"
 
 wifi-manager 또한 "specified package ~~~~~ does not exist"
 
-그 이유 역시,
+그 이유 역시, "Initial empty repository"
 ![wifi-manager-no](https://user-images.githubusercontent.com/45282364/49211319-a7f89c00-f402-11e8-9727-9185bff1d343.png)
 
 
